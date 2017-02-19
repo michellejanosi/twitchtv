@@ -10,4 +10,7 @@ TwitchTV is a simple app using the TwitchTV API which showcases some of the user
 + Can click the status output and be sent directly to the Twitch user’s channel
 + If a Twitch user is currently streaming, can see additional details about what they are streaming
 
+_Screenshot of the app:_
+
+
 ![screenshot](http://twitch.michellejanosi.com/img/twitchtv.png)
